@@ -1,0 +1,18 @@
+{
+    "items": [          
+        {
+            "type": "plugin", 
+            "title": "Anouk - Greatest Hits", 
+            "link": "plugin.video.youtube/playlist/PLqFsXdvC5ogzlmT4Z8aWjI4pzXUsnPzxX", 
+            "thumbnail": "https://i.ytimg.com/vi/3RaHTDNude4/hqdefault.jpg", 
+            "fanart": ""
+        },         
+        {
+            "type": "plugin", 
+            "title": "Kid Rock Greatest Hits", 
+            "link": "plugin.video.youtube/playlist/PL634CBA973FD74878", 
+            "thumbnail": "https://i.ytimg.com/vi/bu3rsha1ZtI/hqdefault.jpg", 
+            "fanart": ""
+        }
+    ]
+}
