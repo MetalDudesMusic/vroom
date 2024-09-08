@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <items>
+         <type>plugin</type>
+         <title>2024 World of Outlaws CASE Construction Late Models </title>
+         <link>plugin.video.youtube/playlist/PLRwcq-9bSXOC8_JHrx86XhrJkW0INOZcV</link>
+         <thumbnail>https://www.bigwestracing.com/wp-content/uploads/2023/01/World-of-Outlaws-Late-Models_BWR_-copy.jpg</thumbnail>
+         <fanart></fanart>
+     </items>
+     <items>
+         <type>plugin</type>
+         <title>2023 World of Outlaws CASE Construction Late Models</title>
+         <link>plugin.video.youtube/playlist/PLRwcq-9bSXODtf2L7OIKxkawFaialGJr8</link>
+         <thumbnail>https://i.ytimg.com/vi/ZIR3KXWNPto/hqdefault.jpg</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
+     <items>
+         <type>plugin</type>
+         <title>2022 World of Outlaws CASE Late Model Series</title>
+         <link>plugin.video.youtube/playlist/PLRwcq-9bSXOCbMBqWu-auHYJGCT5svJ-o</link>
+         <thumbnail>https://i.ytimg.com/vi/k_UioHphxp8/hqdefault.jpg</thumbnail>
+         <fanart></fanart>
+     </items>
+     <items>
+         <type>plugin</type>
+         <title>2024 World of Outlaws NOS Energy Drink Sprint Cars</title>
+         <link>plugin.video.youtube/playlist/PLRwcq-9bSXOCiZK0XdyRXxY4C9SaYdJYh</link>
+         <thumbnail>https://i.ytimg.com/vi/4fpsw3hE-kk/hqdefault.jpg</thumbnail>
+         <fanart></fanart>
+     </items>
+     <items>
+         <type>plugin</type>
+         <title>2023 World of Outlaws NOS Energy Drink Sprint Car Series</title>
+         <link>plugin.video.youtube/playlist/PLRwcq-9bSXOBYAUA1eNda3ObnzYueHItb</link>
+         <thumbnail>https://www.bigwestracing.com/wp-content/uploads/2023/01/World-of-Outlaws-Late-Models_BWR_-copy.jpg</thumbnail>
+         <fanart></fanart>
+     </items>
+     <items>
+         <type>plugin</type>
+         <title>2022 World of Outlaws NOS Energy Drink Sprint Car Series</title>
+         <link>plugin.video.youtube/playlist/PLRwcq-9bSXOBYLxHlOt11L8KLRXDeIB48</link>
+         <thumbnail>https://i.ytimg.com/vi/uqUMP_AvDCA/hqdefault.jpg</thumbnail>
+         <fanart></fanart>
+     </items>
+     <items>
+         <type>plugin</type>
+         <title>2021 World of Outlaws NOS Energy Drink Sprint Cars</title>
+         <link>plugin.video.youtube/playlist/PLRwcq-9bSXOD99ZQfe1KB8XvrkaxkckrS</link>
+         <thumbnail>https://i.ytimg.com/vi/QqtyeRkW8zc/hqdefault.jpg</thumbnail>
+         <fanart></fanart>
+     </items>
+ </root>
